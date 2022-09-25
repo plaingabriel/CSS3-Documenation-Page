@@ -1,6 +1,6 @@
 # CSS3 Documentation Page
 
-freeCodeCamp Documentation Page challenge.
+freeCodeCamp Technical Documentation Page challenge.
 
 The content of the page explain what is CSS, its prerequesites, anatomy of a CSS ruleset and the box model. 
 
